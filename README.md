@@ -37,7 +37,7 @@ Some of the KPIs analyzed in the project include:
 
 ## Repository Structure
 
-- `data/`: Contains the data files used in the project (Excel).
+- `data/`: Contains the data files used in the project (XLSX).
 - `dashboards/`: Stores the Power BI files (PBIX).
 
 ## How to Use
